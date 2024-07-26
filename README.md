@@ -17,7 +17,7 @@ Contact info: t.brender9@gmail.com
 
 |Skills| Projects|
 |------|----
-|IAM/RBAC|[link](https://www.example.com/my%20great%20page) <a href="https://www.example.com/my great page">link</a>       
+|IAM/RBAC| <a href="https://github.com/trender1/AWS-IAM-Project">AWS IAM Lab</a>       
 |Wireshark | <a href="https://github.com/trender1/Wireshark-Lab">Wireshark Lab</a>
 |AWS
 |Zenmap (nmap)
