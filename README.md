@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am Terrance 👋
 
 <!--
 **trender1/trender1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,5 +22,6 @@ Contact info: t.brender9@gmail.com
 |AWS
 |Zenmap (nmap)
 |Risk Management 
+
 
 
